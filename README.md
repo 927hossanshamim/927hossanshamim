@@ -1,6 +1,6 @@
 # Full Stack Web and App Developer
 
-Hello, I'm [Your Name], a seasoned Full Stack Web and App Developer with years of hands-on experience in crafting dynamic and engaging digital solutions. My expertise lies in a wide range of technologies, including MERN stack, PHP, and frontend development. This README provides an overview of my skills, projects, and contact information.
+Hello, I'm Shamim, a seasoned Full Stack Web and App Developer with years of hands-on experience in crafting dynamic and engaging digital solutions. My expertise lies in a wide range of technologies, including MERN stack, PHP, and frontend development. This README provides an overview of my skills, projects, and contact information.
 
 ## 🔧 Technologies and Skills
 
