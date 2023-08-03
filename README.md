@@ -22,10 +22,9 @@ Designed and developed a personalized portfolio website to showcase my skills, p
 
 ## 📫 Get in Touch
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Email: your@email.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- GitHub: [github.com/yourusername](https://github.com/927hossanshamim)
+- LinkedIn: [linkedin.com/in/shamim-hossan-6809b8250/](linkedin.com/in/shamim-hossan-6809b8250/)
+- Email: hossanshamim927@gmail.com
 
 Feel free to reach out if you're interested in collaborating on projects, have any questions, or just want to connect!
 
